@@ -13,7 +13,7 @@
 --RAM instalada	4,00 GB (3,84 GB utilizable)
 --Id del dispositivo 	DEA6B70F-3DE8-4969-8140-7CD4D204625F
 ## versión 
-
+Python versión --3.9.12
 
 ## explicación 
 
